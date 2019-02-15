@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormWCFapp", "WindowsFormWCFapp\WindowsFormWCFapp.csproj", "{37708C8D-BA22-4185-A540-FEBB636099E4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7824385B-F42A-471D-931D-2103A0483B92} = {7824385B-F42A-471D-931D-2103A0483B92}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfToDB", "WcfToDB\WcfToDB.csproj", "{7824385B-F42A-471D-931D-2103A0483B92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37708C8D-BA22-4185-A540-FEBB636099E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37708C8D-BA22-4185-A540-FEBB636099E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37708C8D-BA22-4185-A540-FEBB636099E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37708C8D-BA22-4185-A540-FEBB636099E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7824385B-F42A-471D-931D-2103A0483B92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7824385B-F42A-471D-931D-2103A0483B92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7824385B-F42A-471D-931D-2103A0483B92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7824385B-F42A-471D-931D-2103A0483B92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {559884A7-13DE-434E-BD50-DA7FD98A849A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\Kzlkaya\source\repos\WindowsFormWCFapp\WindowsFormWCFapp\bin\Debug\WindowsFormWCFapp.exe.config
+C:\Users\Kzlkaya\source\repos\WindowsFormWCFapp\WindowsFormWCFapp\bin\Debug\WindowsFormWCFapp.exe
+C:\Users\Kzlkaya\source\repos\WindowsFormWCFapp\WindowsFormWCFapp\bin\Debug\WindowsFormWCFapp.pdb
+C:\Users\Kzlkaya\source\repos\WindowsFormWCFapp\WindowsFormWCFapp\obj\Debug\WindowsFormWCFapp.csprojAssemblyReference.cache
+C:\Users\Kzlkaya\source\repos\WindowsFormWCFapp\WindowsFormWCFapp\obj\Debug\WindowsFormWCFapp.Form1.resources
+C:\Users\Kzlkaya\source\repos\WindowsFormWCFapp\WindowsFormWCFapp\obj\Debug\WindowsFormWCFapp.Properties.Resources.resources
+C:\Users\Kzlkaya\source\repos\WindowsFormWCFapp\WindowsFormWCFapp\obj\Debug\WindowsFormWCFapp.csproj.GenerateResource.cache
+C:\Users\Kzlkaya\source\repos\WindowsFormWCFapp\WindowsFormWCFapp\obj\Debug\WindowsFormWCFapp.csproj.CoreCompileInputs.cache
+C:\Users\Kzlkaya\source\repos\WindowsFormWCFapp\WindowsFormWCFapp\obj\Debug\WindowsFormWCFapp.exe
+C:\Users\Kzlkaya\source\repos\WindowsFormWCFapp\WindowsFormWCFapp\obj\Debug\WindowsFormWCFapp.pdb
